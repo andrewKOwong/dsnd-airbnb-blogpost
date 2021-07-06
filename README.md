@@ -23,7 +23,8 @@ An associated Medium post is [here](https://medium.com/@aKOwong/its-really-mostl
 ## File Description
 
 `README.md` - This file describing the repo.  
-`project_notebook.ipynb` - Analysis and modelling Jupyter notebook.  
+`project_notebook.ipynb` - Analysis and modelling Jupyter notebook.
+`project_notebook.html` - HTML export of the notebook.
 `data` - folder containing the data set, in which contains:
 
 - `listings_summary.csv` and `listings.csv` - source of the features used in the analysis
