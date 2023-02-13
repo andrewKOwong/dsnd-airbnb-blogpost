@@ -18,7 +18,8 @@ I chose a dataset of Airbnb listings from Vancouver, Canada spanning the month o
 - What features affect the price of an Airbnb listing?
 - Can we fit a model to predict a listing’s price based on its features?
 
-An associated Medium post is [here](https://medium.com/@aKOwong/its-really-mostly-about-the-bedrooms-a-brief-saunter-into-a-month-of-airbnbs-in-vancouver-9106617cb9e9).
+An associated blog post is now located [here](https://mixedconclusions.com/blog/dsnd_airbnb/)
+(with the original Medium post [here](https://medium.com/@aKOwong/its-really-mostly-about-the-bedrooms-a-brief-saunter-into-a-month-of-airbnbs-in-vancouver-9106617cb9e9)).
 
 ## File Description
 
